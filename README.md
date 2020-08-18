@@ -1,7 +1,7 @@
 # Portfolio Risk Measurement of Crude Oil Futures
 
 ## Summary
-This analysis demostrates how portfolio VaR can be calculated by historical simulation method. Each position in the portfolio is revalued based on historical scenarios on current market prices and rates. VaR is calculated on the simulated P&L of each position. Portfolio VaR is calculated on aggregated simulated P&L of all positions.
+This analysis demonstrates  how portfolio VaR can be calculated by historical simulation method. Each position in the portfolio is revalued based on historical scenarios on current market prices and rates. VaR is calculated on the simulated P&L of each position. Portfolio VaR is calculated on aggregated simulated P&L of all positions.
 
 Historical simulation approach performs full revaluation of all positions on scenario rates. Consistent scenario rates generation process is of utmost importance here in order to maintain correlation across all factors/parameters passed in as inputs to valuation models.
 
